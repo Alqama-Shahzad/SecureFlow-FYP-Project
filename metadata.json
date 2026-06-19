@@ -1,0 +1,6 @@
+{
+  "name": "SecureFlow",
+  "description": "Secure SDLC-Based Project Management System for Banking Environments",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
